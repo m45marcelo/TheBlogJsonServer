@@ -691,6 +691,784 @@
           "IA",
           "Cinema"
         ]
+      },
+      {
+        "id": 51,
+        "category": "entretenimento",
+        "author": "Juliana Rocha",
+        "date": "23/04/2025",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DOPCTTDXCVCDFFDYRSD4KOZC2I.jpeg?auth=44f4193e35b78237d41d716870053ddecadff8a9e78cd8a3a21b53c98600a025&width=1600&height=1066",
+        "title": "‘A Única Saída’ mostra como a busca por trabalho pode levar ao limite",
+        "subtitle": "Filme que estreia nesta quinta (22) lança olhar crítico sobre a fragilidade do trabalhador e as pressões da competitividade no mundo corporativo",
+        "content": "Após servir a indústria de papel onde trabalhou durante 25 anos e ser demitido, Yoo Man-soo (Lee Byung-hun) se vê desesperado ao precisar arranjar um novo emprego e encontrar a solução eliminando a concorrência, mas não da maneira convencional.",
+        "tag": [
+          "IA",
+          "Cinema"
+        ]
+      },
+      {
+        "id": 51,
+        "category": "entretenimento",
+        "author": "Juliana Rocha",
+        "date": "23/04/2025",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DOPCTTDXCVCDFFDYRSD4KOZC2I.jpeg?auth=44f4193e35b78237d41d716870053ddecadff8a9e78cd8a3a21b53c98600a025&width=1600&height=1066",
+        "title": "‘A Única Saída’ mostra como a busca por trabalho pode levar ao limite",
+        "subtitle": "Filme que estreia nesta quinta (22) lança olhar crítico sobre a fragilidade do trabalhador e as pressões da competitividade no mundo corporativo",
+        "content": "Após servir a indústria de papel onde trabalhou durante 25 anos e ser demitido, Yoo Man-soo (Lee Byung-hun) se vê desesperado ao precisar arranjar um novo emprego e encontrar a solução eliminando a concorrência, mas não da maneira convencional.",
+        "tag": [
+          "IA",
+          "Cinema"
+        ]
+      },
+      {
+        "id": 53,
+        "category": "entretenimento",
+        "author": "Fernanda Costa",
+        "date": "21/11/2026",
+        "image": "https://s2-gshow.glbimg.com/Nq9FmLv4_s7g6SG33B-UbfwYuDc=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/h/h/ATeZXnRTaJoSElrnfYvA/2025-02-28t212408z-1512064279-rc2w3dafqah3-rtrmadp-3-awards-oscars.jpg",
+        "title": "Oscar 2026: Favoritos começam a surgir após festivais de início de ano",
+        "subtitle": "Produções independentes e blockbusters disputam atenção da crítica especializada.",
+        "content": "A notícia completa sobre Oscar 2026: Favoritos começam a surgir após festivais de início de ano destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 54,
+        "category": "games",
+        "author": "Vinícius Prado",
+        "date": "21/01/2026",
+        "image": "https://t2.tudocdn.net/667018?w=824&h=494",
+        "title": "Xbox Game Pass atinge 50 milhões de assinantes e foca em jogos mobile",
+        "subtitle": "A Microsoft expande seu serviço de assinatura para novas plataformas e mercados.",
+        "content": "A notícia completa sobre Xbox Game Pass atinge 50 milhões de assinantes e foca em jogos mobile destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 55,
+        "category": "esporte",
+        "author": "Fernanda Costa",
+        "date": "19/02/2026",
+        "image": "https://medias.itatiaia.com.br/dims4/default/8466411/2147483647/strip/true/crop/1000x563+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2F0b%2F1c8d2e1a4d5eaad915fdc52bfa4c%2Ffotojet-2025-06-13t114816-322.jpg",
+        "title": "Real Madrid anuncia contratação de joia de 16 anos do futebol argentino",
+        "subtitle": "O clube merengue continua sua estratégia de captar talentos precoces na América do Sul.",
+        "content": "A notícia completa sobre Real Madrid anuncia contratação de joia de 16 anos do futebol argentino destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 56,
+        "category": "economia",
+        "author": "Bruno Lima",
+        "date": "02/12/2026",
+        "image": "https://reconectanews.com.br/wp-content/uploads/2026/02/Eletrificados-ja-respondem-por-69-do-crescimento-do-mercado-brasileiro.webp",
+        "title": "Setor automotivo brasileiro prevê alta de 10% nas vendas de elétricos em 2026",
+        "subtitle": "Novos incentivos governamentais e infraestrutura de carga impulsionam o mercado.",
+        "content": "A notícia completa sobre Setor automotivo brasileiro prevê alta de 10% nas vendas de elétricos em 2026 destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 57,
+        "category": "economia",
+        "author": "Bruno Lima",
+        "date": "21/05/2026",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/bitcoin-23.jpg?fit=900%2C600&quality=50&strip=all",
+        "title": "Criptomoedas: Bitcoin atinge nova máxima histórica com aprovação de ETFs na Ásia",
+        "subtitle": "O mercado de ativos digitais ganha novo fôlego com a entrada de investidores institucionais.",
+        "content": "A notícia completa sobre Criptomoedas: Bitcoin atinge nova máxima histórica com aprovação de ETFs na Ásia destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 58,
+        "category": "entretenimento",
+        "author": "Vinícius Prado",
+        "date": "15/08/2026",
+        "image": "https://topview.com.br/wp-content/uploads/2023/02/beyonce-renaissance-tour-world-tour-turne-mundial-beyonce.webp",
+        "title": "Beyoncé anuncia turnê mundial 'Renaissance Act III' para o segundo semestre",
+        "subtitle": "Cantora levará sua nova era para estádios na Europa, América e Ásia.",
+        "content": "A notícia completa sobre Beyoncé anuncia turnê mundial 'Renaissance Act III' para o segundo semestre destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 59,
+        "category": "esporte",
+        "author": "Bruno Lima",
+        "date": "07/03/2026",
+        "image": "https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w1460/f_auto/primary/cmep7ranbbavhtko7n29",
+        "title": "NBA: Victor Wembanyama é eleito MVP da temporada com números históricos",
+        "subtitle": "O gigante francês do San Antonio Spurs domina a liga em seu terceiro ano.",
+        "content": "A notícia completa sobre NBA: Victor Wembanyama é eleito MVP da temporada com números históricos destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 60,
+        "category": "tecnologia",
+        "author": "Bruno Lima",
+        "date": "14/11/2026",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/starlink.jpg?w=1200&h=900&crop=1",
+        "title": "Starlink atinge 10 milhões de usuários e anuncia internet a 1Gbps via satélite",
+        "subtitle": "A empresa de Elon Musk expande cobertura e velocidade para áreas remotas.",
+        "content": "A notícia completa sobre Starlink atinge 10 milhões de usuários e anuncia internet a 1Gbps via satélite destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 61,
+        "category": "economia",
+        "author": "Carlos Silva",
+        "date": "18/11/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio",
+        "subtitle": "Setor de serviços também apresenta resiliência em meio a juros ainda elevados.",
+        "content": "A notícia completa sobre PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 62,
+        "category": "entretenimento",
+        "author": "Ana Beatriz",
+        "date": "05/06/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Beyoncé anuncia turnê mundial 'Renaissance Act III' para o segundo semestre",
+        "subtitle": "Cantora levará sua nova era para estádios na Europa, América e Ásia.",
+        "content": "A notícia completa sobre Beyoncé anuncia turnê mundial 'Renaissance Act III' para o segundo semestre destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 63,
+        "category": "entretenimento",
+        "author": "Fernanda Costa",
+        "date": "14/07/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Rock in Rio 2026 confirma Lady Gaga e Bruno Mars como headliners",
+        "subtitle": "O festival celebra 41 anos com um line-up focado em grandes ícones do pop.",
+        "content": "A notícia completa sobre Rock in Rio 2026 confirma Lady Gaga e Bruno Mars como headliners destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 64,
+        "category": "esporte",
+        "author": "Fernanda Costa",
+        "date": "19/08/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Seleção Brasileira feminina vence Copa América e garante vaga na Copa 2027",
+        "subtitle": "Comandadas por Arthur Elias, as Guerreiras do Brasil dominam o torneio continental.",
+        "content": "A notícia completa sobre Seleção Brasileira feminina vence Copa América e garante vaga na Copa 2027 destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 65,
+        "category": "esporte",
+        "author": "Rafael Almeida",
+        "date": "01/08/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Brasil encerra Jogos de Inverno de Milão-Cortina com campanha histórica",
+        "subtitle": "Delegação brasileira conquista marcas inéditas e pódio histórico na neve italiana.",
+        "content": "A notícia completa sobre Brasil encerra Jogos de Inverno de Milão-Cortina com campanha histórica destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 66,
+        "category": "economia",
+        "author": "Rafael Almeida",
+        "date": "07/01/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Petróleo Brent sobe 3% após tensões geopolíticas no Oriente Médio",
+        "subtitle": "Incertezas sobre a oferta global pressionam os preços dos combustíveis.",
+        "content": "A notícia completa sobre Petróleo Brent sobe 3% após tensões geopolíticas no Oriente Médio destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 67,
+        "category": "economia",
+        "author": "Juliana Rocha",
+        "date": "20/04/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio",
+        "subtitle": "Setor de serviços também apresenta resiliência em meio a juros ainda elevados.",
+        "content": "A notícia completa sobre PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 68,
+        "category": "games",
+        "author": "Fernanda Costa",
+        "date": "26/03/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Xbox Game Pass atinge 50 milhões de assinantes e foca em jogos mobile",
+        "subtitle": "A Microsoft expande seu serviço de assinatura para novas plataformas e mercados.",
+        "content": "A notícia completa sobre Xbox Game Pass atinge 50 milhões de assinantes e foca em jogos mobile destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 69,
+        "category": "games",
+        "author": "Rafael Almeida",
+        "date": "19/07/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Hollow Knight: Silksong ganha data definitiva de lançamento para junho",
+        "subtitle": "Após anos de espera, os fãs finalmente poderão jogar a sequência do metroidvania.",
+        "content": "A notícia completa sobre Hollow Knight: Silksong ganha data definitiva de lançamento para junho destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 70,
+        "category": "entretenimento",
+        "author": "Carlos Silva",
+        "date": "26/09/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Rock in Rio 2026 confirma Lady Gaga e Bruno Mars como headliners",
+        "subtitle": "O festival celebra 41 anos com um line-up focado em grandes ícones do pop.",
+        "content": "A notícia completa sobre Rock in Rio 2026 confirma Lady Gaga e Bruno Mars como headliners destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 71,
+        "category": "esporte",
+        "author": "Vinícius Prado",
+        "date": "13/11/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Gabriel Medina conquista o tetra mundial de surfe em Pipeline",
+        "subtitle": "O surfista brasileiro domina as ondas e entra para a história como um dos maiores.",
+        "content": "A notícia completa sobre Gabriel Medina conquista o tetra mundial de surfe em Pipeline destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 72,
+        "category": "tecnologia",
+        "author": "Vinícius Prado",
+        "date": "06/06/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Bateria de estado sólido promete 1.200km de autonomia para carros elétricos",
+        "subtitle": "A nova tecnologia da Toyota entra em fase de testes finais de produção em massa.",
+        "content": "A notícia completa sobre Bateria de estado sólido promete 1.200km de autonomia para carros elétricos destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 73,
+        "category": "esporte",
+        "author": "Vinícius Prado",
+        "date": "21/10/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Gabriel Medina conquista o tetra mundial de surfe em Pipeline",
+        "subtitle": "O surfista brasileiro domina as ondas e entra para a história como um dos maiores.",
+        "content": "A notícia completa sobre Gabriel Medina conquista o tetra mundial de surfe em Pipeline destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 74,
+        "category": "games",
+        "author": "Vinícius Prado",
+        "date": "24/04/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "The Last of Us Part III entra em fase final de captura de movimentos",
+        "subtitle": "Neil Druckmann confirma que a história de Ellie terá uma conclusão emocionante.",
+        "content": "A notícia completa sobre The Last of Us Part III entra em fase final de captura de movimentos destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 75,
+        "category": "economia",
+        "author": "Vinícius Prado",
+        "date": "13/03/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Setor automotivo brasileiro prevê alta de 10% nas vendas de elétricos em 2026",
+        "subtitle": "Novos incentivos governamentais e infraestrutura de carga impulsionam o mercado.",
+        "content": "A notícia completa sobre Setor automotivo brasileiro prevê alta de 10% nas vendas de elétricos em 2026 destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 76,
+        "category": "tecnologia",
+        "author": "Bruno Lima",
+        "date": "05/02/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Starlink atinge 10 milhões de usuários e anuncia internet a 1Gbps via satélite",
+        "subtitle": "A empresa de Elon Musk expande cobertura e velocidade para áreas remotas.",
+        "content": "A notícia completa sobre Starlink atinge 10 milhões de usuários e anuncia internet a 1Gbps via satélite destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 77,
+        "category": "economia",
+        "author": "Rafael Almeida",
+        "date": "05/06/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio",
+        "subtitle": "Setor de serviços também apresenta resiliência em meio a juros ainda elevados.",
+        "content": "A notícia completa sobre PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 78,
+        "category": "entretenimento",
+        "author": "Rafael Almeida",
+        "date": "26/02/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Rock in Rio 2026 confirma Lady Gaga e Bruno Mars como headliners",
+        "subtitle": "O festival celebra 41 anos com um line-up focado em grandes ícones do pop.",
+        "content": "A notícia completa sobre Rock in Rio 2026 confirma Lady Gaga e Bruno Mars como headliners destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 79,
+        "category": "entretenimento",
+        "author": "Vinícius Prado",
+        "date": "13/08/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Coringa 3? Joaquin Phoenix comenta possibilidade de retorno ao papel",
+        "subtitle": "Ator diz que história de Arthur Fleck pode ter mais um capítulo sombrio.",
+        "content": "A notícia completa sobre Coringa 3? Joaquin Phoenix comenta possibilidade de retorno ao papel destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 80,
+        "category": "tecnologia",
+        "author": "Lucas Freitas",
+        "date": "10/02/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Google DeepMind lança ferramenta que prevê mutações genéticas com precisão",
+        "subtitle": "A tecnologia pode acelerar a cura de doenças raras e o desenvolvimento de vacinas.",
+        "content": "A notícia completa sobre Google DeepMind lança ferramenta que prevê mutações genéticas com precisão destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 81,
+        "category": "entretenimento",
+        "author": "Ana Beatriz",
+        "date": "06/11/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Anime de 'Solo Leveling' quebra recordes de audiência em sua nova fase",
+        "subtitle": "A produção sul-coreana se consolida como um dos maiores sucessos da animação mundial.",
+        "content": "A notícia completa sobre Anime de 'Solo Leveling' quebra recordes de audiência em sua nova fase destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 82,
+        "category": "games",
+        "author": "Juliana Rocha",
+        "date": "17/07/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Nintendo Switch 2 é anunciado com suporte a Ray Tracing e retrocompatibilidade",
+        "subtitle": "O sucessor do console híbrido chega ao mercado com lineup de peso no lançamento.",
+        "content": "A notícia completa sobre Nintendo Switch 2 é anunciado com suporte a Ray Tracing e retrocompatibilidade destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 83,
+        "category": "tecnologia",
+        "author": "Lucas Freitas",
+        "date": "12/06/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Google DeepMind lança ferramenta que prevê mutações genéticas com precisão",
+        "subtitle": "A tecnologia pode acelerar a cura de doenças raras e o desenvolvimento de vacinas.",
+        "content": "A notícia completa sobre Google DeepMind lança ferramenta que prevê mutações genéticas com precisão destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 84,
+        "category": "entretenimento",
+        "author": "Rafael Almeida",
+        "date": "07/05/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Série de Harry Potter na Max define elenco mirim para primeira temporada",
+        "subtitle": "A nova adaptação dos livros de J.K. Rowling inicia filmagens no Reino Unido.",
+        "content": "A notícia completa sobre Série de Harry Potter na Max define elenco mirim para primeira temporada destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 85,
+        "category": "entretenimento",
+        "author": "Lucas Freitas",
+        "date": "06/12/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Coringa 3? Joaquin Phoenix comenta possibilidade de retorno ao papel",
+        "subtitle": "Ator diz que história de Arthur Fleck pode ter mais um capítulo sombrio.",
+        "content": "A notícia completa sobre Coringa 3? Joaquin Phoenix comenta possibilidade de retorno ao papel destaca os principais avanços e impactos no setor de entretenimento. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Entretenimento"
+        ]
+      },
+      {
+        "id": 86,
+        "category": "economia",
+        "author": "Ana Beatriz",
+        "date": "28/02/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Setor automotivo brasileiro prevê alta de 10% nas vendas de elétricos em 2026",
+        "subtitle": "Novos incentivos governamentais e infraestrutura de carga impulsionam o mercado.",
+        "content": "A notícia completa sobre Setor automotivo brasileiro prevê alta de 10% nas vendas de elétricos em 2026 destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 87,
+        "category": "tecnologia",
+        "author": "Rafael Almeida",
+        "date": "16/09/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Google DeepMind lança ferramenta que prevê mutações genéticas com precisão",
+        "subtitle": "A tecnologia pode acelerar a cura de doenças raras e o desenvolvimento de vacinas.",
+        "content": "A notícia completa sobre Google DeepMind lança ferramenta que prevê mutações genéticas com precisão destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 88,
+        "category": "esporte",
+        "author": "Lucas Freitas",
+        "date": "14/04/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "NBA: Victor Wembanyama é eleito MVP da temporada com números históricos",
+        "subtitle": "O gigante francês do San Antonio Spurs domina a liga em seu terceiro ano.",
+        "content": "A notícia completa sobre NBA: Victor Wembanyama é eleito MVP da temporada com números históricos destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 89,
+        "category": "tecnologia",
+        "author": "Fernanda Costa",
+        "date": "28/11/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Primeiro carro voador elétrico recebe autorização para testes em São Paulo",
+        "subtitle": "A Eve, da Embraer, inicia simulações de rotas urbanas para o transporte aéreo.",
+        "content": "A notícia completa sobre Primeiro carro voador elétrico recebe autorização para testes em São Paulo destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 90,
+        "category": "games",
+        "author": "Bruno Lima",
+        "date": "21/08/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Sony confirma State of Play com foco em novos títulos para o PS5 Pro",
+        "subtitle": "A conferência deve mostrar o poder gráfico do novo console da família PlayStation.",
+        "content": "A notícia completa sobre Sony confirma State of Play com foco em novos títulos para o PS5 Pro destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 91,
+        "category": "games",
+        "author": "Vinícius Prado",
+        "date": "01/07/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Nintendo Switch 2 é anunciado com suporte a Ray Tracing e retrocompatibilidade",
+        "subtitle": "O sucessor do console híbrido chega ao mercado com lineup de peso no lançamento.",
+        "content": "A notícia completa sobre Nintendo Switch 2 é anunciado com suporte a Ray Tracing e retrocompatibilidade destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 92,
+        "category": "esporte",
+        "author": "Ana Beatriz",
+        "date": "06/08/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Vôlei: Brasil vence a Liga das Nações masculina em final contra a Polônia",
+        "subtitle": "A seleção renovada mostra força e se prepara para o próximo ciclo olímpico.",
+        "content": "A notícia completa sobre Vôlei: Brasil vence a Liga das Nações masculina em final contra a Polônia destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 93,
+        "category": "economia",
+        "author": "Vinícius Prado",
+        "date": "06/04/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Big Techs planejam gastar US$ 600 bilhões em IA em 2026",
+        "subtitle": "Investimentos massivos em infraestrutura de inteligência artificial geram cautela no mercado.",
+        "content": "A notícia completa sobre Big Techs planejam gastar US$ 600 bilhões em IA em 2026 destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 94,
+        "category": "economia",
+        "author": "Lucas Freitas",
+        "date": "26/10/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Big Techs planejam gastar US$ 600 bilhões em IA em 2026",
+        "subtitle": "Investimentos massivos em infraestrutura de inteligência artificial geram cautela no mercado.",
+        "content": "A notícia completa sobre Big Techs planejam gastar US$ 600 bilhões em IA em 2026 destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 95,
+        "category": "economia",
+        "author": "Carlos Silva",
+        "date": "27/10/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio",
+        "subtitle": "Setor de serviços também apresenta resiliência em meio a juros ainda elevados.",
+        "content": "A notícia completa sobre PIB do Brasil cresce 2,5% no primeiro trimestre impulsionado pelo agronegócio destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 96,
+        "category": "economia",
+        "author": "Fernanda Costa",
+        "date": "12/06/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Dólar opera em queda com otimismo sobre reformas fiscais no Congresso",
+        "subtitle": "Moeda americana recua frente ao real em dia de forte fluxo de capital estrangeiro.",
+        "content": "A notícia completa sobre Dólar opera em queda com otimismo sobre reformas fiscais no Congresso destaca os principais avanços e impactos no setor de economia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Economia"
+        ]
+      },
+      {
+        "id": 97,
+        "category": "tecnologia",
+        "author": "Juliana Rocha",
+        "date": "07/09/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Microsoft integra Windows 12 totalmente à nuvem com foco em produtividade",
+        "subtitle": "O novo sistema operacional exige conexão constante para recursos de IA em tempo real.",
+        "content": "A notícia completa sobre Microsoft integra Windows 12 totalmente à nuvem com foco em produtividade destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
+      },
+      {
+        "id": 98,
+        "category": "games",
+        "author": "Fernanda Costa",
+        "date": "15/05/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Resident Evil: Requiem promete ser o capítulo mais sombrio da franquia",
+        "subtitle": "A Capcom revela detalhes da trama que se passa em uma vila isolada no norte da Europa.",
+        "content": "A notícia completa sobre Resident Evil: Requiem promete ser o capítulo mais sombrio da franquia destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 99,
+        "category": "esporte",
+        "author": "Carlos Silva",
+        "date": "19/04/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Vôlei: Brasil vence a Liga das Nações masculina em final contra a Polônia",
+        "subtitle": "A seleção renovada mostra força e se prepara para o próximo ciclo olímpico.",
+        "content": "A notícia completa sobre Vôlei: Brasil vence a Liga das Nações masculina em final contra a Polônia destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 100,
+        "category": "games",
+        "author": "Fernanda Costa",
+        "date": "03/12/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "League of Legends 2? Riot Games faz mistério sobre grande anúncio de 15 anos",
+        "subtitle": "A empresa sinaliza mudanças drásticas no MOBA mais popular do mundo.",
+        "content": "A notícia completa sobre League of Legends 2? Riot Games faz mistério sobre grande anúncio de 15 anos destaca os principais avanços e impactos no setor de games. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Games"
+        ]
+      },
+      {
+        "id": 101,
+        "category": "esporte",
+        "author": "Lucas Freitas",
+        "date": "02/01/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Neymar Jr. anuncia retorno ao Santos após fim de contrato na Arábia",
+        "subtitle": "O craque brasileiro volta às origens para disputar o Campeonato Brasileiro 2026.",
+        "content": "A notícia completa sobre Neymar Jr. anuncia retorno ao Santos após fim de contrato na Arábia destaca os principais avanços e impactos no setor de esporte. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Esporte"
+        ]
+      },
+      {
+        "id": 102,
+        "category": "tecnologia",
+        "author": "Carlos Silva",
+        "date": "25/05/2026",
+        "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BPWNH56Z7ZD4ZHEZBU7IX4EWJU.jpg?auth=f78fb15a4082461b8fab59aab79fdd0ecfd856c665d60d4c2113da9bc8e4f9e4&width=1600&height=900",
+        "title": "Starlink atinge 10 milhões de usuários e anuncia internet a 1Gbps via satélite",
+        "subtitle": "A empresa de Elon Musk expande cobertura e velocidade para áreas remotas.",
+        "content": "A notícia completa sobre Starlink atinge 10 milhões de usuários e anuncia internet a 1Gbps via satélite destaca os principais avanços e impactos no setor de tecnologia. Especialistas apontam que as mudanças recentes refletem uma tendência global de inovação e adaptação às novas demandas do mercado em 2026.",
+        "tag": [
+          "IA",
+          "Notícias",
+          "Tecnologia"
+        ]
       }
     ]
   }
